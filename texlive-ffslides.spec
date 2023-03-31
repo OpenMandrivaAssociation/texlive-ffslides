@@ -1,6 +1,6 @@
 Name:		texlive-ffslides
 Version:	38895
-Release:	1
+Release:	2
 Summary:	Freeform slides based on the article class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ffslides
