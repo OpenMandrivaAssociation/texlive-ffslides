@@ -3,7 +3,7 @@ Version:	38895
 Release:	2
 Summary:	Freeform slides based on the article class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ffslides
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ffslides
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ffslides.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ffslides.doc.r%{version}.tar.xz
